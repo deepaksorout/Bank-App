@@ -32,5 +32,7 @@ public class Main {
         int years= sc.nextInt();
         System.out.println("Amount after "+years+ "of interesr is : ");
         System.out.println(user.interest(years));
+
+        System.out.println("this is a change");
     }
 }
